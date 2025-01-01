@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **Homestay Recommendation Project using Spring**
 
-- 🌱 I’m currently learning **React.js,Spring**
+- 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **Java,Django..**
+- 💬 Ask me about **Java..**
 
 - 📫 How to reach me **lohithr60@gmail.com**
 
