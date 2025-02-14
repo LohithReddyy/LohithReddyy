@@ -18,8 +18,6 @@
 
 - 📫 How to reach me **lohithr60@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1IdXu0C0bHuAGqldDHCR5-LW99TFessuu/view?usp=drivesdk](https://drive.google.com/file/d/1IdXu0C0bHuAGqldDHCR5-LW99TFessuu/view?usp=drivesdk))
-
 - ⚡ Fun fact **I am Funny**
 
 
