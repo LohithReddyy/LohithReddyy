@@ -37,6 +37,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=LohithReddyy&limit=5&theme=gotham&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=LohithReddyy&icon=0&color=1)](https://visitcount.itsvg.in)
+Thanks for visiting my profile! Feel free to connect and explore my projects. Have a great day! ❤️
 
 
