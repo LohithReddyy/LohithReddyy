@@ -10,13 +10,11 @@
   </a> 
 </p>
 
-- 🔭 I’m currently working on **Nestify**
-
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **Angular**
 
 - 💬 Ask me about **Java..**
 
-- 📫 How to reach me **lohithr60@gmail.com**
+- 📫 How to reach me **2200032951cseh@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
@@ -39,13 +37,14 @@
 - **Red Hat Certified Enterprise Application Developer** | Valid till: **September 2027**
 - **Microsoft Azure AI Fundamentals** | Lifetime
 - **Linguaskill Cambridge English** | Lifetime
+- **Certified System Administrator** | Lifetime
 
 ---
 
 ## 📚 Education:
 ### KL University, Vijayawada | **2022 - Present**  
 **B.Tech in Computer Science and Engineering**  
-**CGPA: 9.50/10**  
+**CGPA: 9.48/10**  
 
 ### Narayana Junior College, Anantapur | **2020 - 2022**  
 **XII - Mathematics, Physics, Chemistry**  
