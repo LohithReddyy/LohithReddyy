@@ -42,9 +42,9 @@
 ---
 
 ## 📚 Education:
-### KL University, Vijayawada | **2022 - Present**  
+### KL University, Vijayawada | **2022 - 2026**  
 **B.Tech in Computer Science and Engineering**  
-**CGPA: 9.48/10**  
+**CGPA: 9.52/10**  
 
 ### Narayana Junior College, Anantapur | **2020 - 2022**  
 **XII - Mathematics, Physics, Chemistry**  
