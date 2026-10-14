@@ -10,7 +10,7 @@
   </a> 
 </p>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **DevOps**
 
 - 💬 Ask me about **Java..**
 
